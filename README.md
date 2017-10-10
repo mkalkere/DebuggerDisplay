@@ -5,7 +5,7 @@
 
 - Do you need a way to make changes to the code which impacts/works ony while debugging?
 
-If your aneswer is yes to the above questions then,    ``DebuggerDisplay`` comes to rescue.
+If your aneswer is ``yes`` to the above questions then,    ``DebuggerDisplay`` comes to rescue.
 
 One of the prominent task as a developer when identifying a bug with in a code is to step through the code and analyze the ``runtime object data``.
 
