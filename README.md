@@ -115,6 +115,7 @@ So, what is the best way to display the desired value of the runtime object data
 
  **Note:** 
  > You might have noticed a Format Specifier **_‘nq’_** which stands for ‘no quote’ makes no quotes to be applied while displaying the debug variables.
+ 
  You can read about Format Specifiers <a href=”https://msdn.microsoft.com/en-us/library/e514eeby.aspx” target=”_blank”> here</a>
 
 You can read further about **DebuggerDisplay attribute** over <a href=https://msdn.microsoft.com/en-us/library/e514eeby.aspx target=”_blank”> here </a>
