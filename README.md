@@ -19,16 +19,15 @@ public class Customer
         public string LastName { get; set; }
  
         public string FullName { get => $"{FirstName} {LastName}"; }
- <bold>
+ 
         public Customer(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
         }
-</bold>        
-  
     }
 ```
+
 We have a Simple class called Customer with two properties holding the customer _FirstName_ and _LastName_ and a read only property _FullName_ which returns the concatenated **First Name** and the **Last Name** of the customer. 
 
 ## Let’s create a console application and initialize the customer class as a collection of customers as shown below: ##
@@ -115,7 +114,7 @@ So, what is the best way to display the desired value of the runtime object data
  If you see in the above picture the value column displays the ``Full Name`` in way which is easier to identify. This helps in making the process of debugging more easier especially in the cases where there is a complex type which encompasses other types and the values which we are interested in are ``nested at various levels`` which further complicates when it is a ``part of a collection``.
 
  **Note:** 
- > You might have noticed a Format Specifier ‘nq’ which stands for ‘no quote’ makes no quotes to be applied while displaying the debug variables.
+ > You might have noticed a Format Specifier **_‘nq’_** which stands for ‘no quote’ makes no quotes to be applied while displaying the debug variables.
  You can read about Format Specifiers <a href=”https://msdn.microsoft.com/en-us/library/e514eeby.aspx” target=”_blank”> here</a>
 
 You can read further about **DebuggerDisplay attribute** over <a href=https://msdn.microsoft.com/en-us/library/e514eeby.aspx target=”_blank”> here </a>
