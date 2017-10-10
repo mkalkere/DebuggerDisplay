@@ -1,6 +1,6 @@
 # Enhancing Debugging with the Debugger Display Attribute
 
-## Controlling what gets displayed in the value column of the Debugger _(Visual studio)_
+
 - Have you ever wondered how to increase the debugging experience in Visual Studio?
 
 - Do you need a way to make changes to the code which impacts/works ony while debugging?
