@@ -19,12 +19,13 @@ public class Customer
         public string LastName { get; set; }
  
         public string FullName { get => $"{FirstName} {LastName}"; }
- 
+ <bold>
         public Customer(string firstName, string lastName)
         {
             FirstName = firstName;
             LastName = lastName;
         }
+<bold>        
   
     }
 ```
