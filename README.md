@@ -118,7 +118,7 @@ So, what is the best way to display the desired value of the runtime object data
 
  You can read about **Format Specifiers** [**here**](https://msdn.microsoft.com/en-us/library/e514eeby.aspx) 
  
-You can read further about **DebuggerDisplay attribute** over <a href=https://msdn.microsoft.com/en-us/library/e514eeby.aspx target=”_blank”>**here**</a>
+You can read further about **DebuggerDisplay attribute** over <a href=https://docs.microsoft.com/en-us/dotnet/framework/debug-trace-profile/enhancing-debugging-with-the-debugger-display-attributes target=”_blank”>**here**</a>
 
 You can find the **source code** of this example on my <a href=https://github.com/mkalkere/DebuggerDisplay.git target=”_blank”>**Git Hub**</a>
 
