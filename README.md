@@ -3,7 +3,7 @@
 
 - Have you ever wondered how to increase the debugging experience in Visual Studio?
 
-- Do you need a way to make changes to the code which impacts/works ony while debugging?
+- Do you need a way to make changes to the code which impacts/works only while debugging?
 
 If your aneswer is ``yes`` to the above questions then,    ``DebuggerDisplay`` comes to rescue.
 
